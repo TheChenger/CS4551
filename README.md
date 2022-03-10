@@ -2,7 +2,11 @@
 Multimedia Information and Processing
 
 
-The first project we were tasked with in this class was to implement image processing techniques
+The first project we were tasked with in this class was to implement image processing techniques,
+
+We were given the MImage class to use to read and write data to and from PPM files.
+
+The image that was hardcoded was the Ducky.ppm file all image processing techniques were used on.
 
 1st: Converting a 24-bit Color Image to an 8-bit Gray-scale image
 
